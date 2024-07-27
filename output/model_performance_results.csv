@@ -1,0 +1,5 @@
+Model,MAE,MSE,RMSE,R2
+Elastic Net,0.705,0.895,0.946,0.13
+Support Vector Regression,0.505,0.622,0.789,0.395
+K-Nearest Neighbors,0.599,0.742,0.861,0.279
+Random Forest,0.477,0.6,0.774,0.417
